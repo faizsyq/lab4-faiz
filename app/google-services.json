@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046943320994",
+    "project_id": "lab4-faiz-b2b25",
+    "storage_bucket": "lab4-faiz-b2b25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046943320994:android:1734ca69e7e3455f2f00fb",
+        "android_client_info": {
+          "package_name": "com.example.lab4_faiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxZaNX-HaJboyq_TSZ3J5QFX--EBuFRlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
